@@ -1,0 +1,91 @@
+# Environment Variables and Secrets
+.env
+.env.local
+.env.production
+*.env
+
+# Bot tokens and sensitive data
+config/secrets.json
+config/tokens.json
+secrets.json
+tokens.json
+
+# API Keys and Credentials
+kaggle.json
+**/kaggle*.json
+*.credentials.json
+*_credentials.json
+
+# Attached assets with potential secrets
+attached_assets/kaggle*.json
+attached_assets/*key*
+attached_assets/*secret*
+attached_assets/*token*
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+conversations.db
+agua_affection.db
+agua_personality.db
+economy.db
+moderation.db
+afk_system.db
+
+# Session files
+flask_session/
+session_data/
+
+# Logs
+*.log
+logs/
+*.log.*
+
+# Node modules
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.env/
+.venv/
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
+.tmp/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Lavalink
+Lavalink.jar
+logs/
+lavalink_logs/
+
+# Backup files
+*.bak
+backup_*
