@@ -1,18 +1,18 @@
-# 🌙✨ NEBULA - Bot Kawaii Tímida
+# 🌸✨ SAKURA IA - Bot Kawaii Adorable
 
 <div align="center">
 
-![NEBULA Banner](https://img.shields.io/badge/🌙✨-NEBULA-FF69B4?style=for-the-badge&labelColor=9F7AEA)
+![SAKURA Banner](https://img.shields.io/badge/🌸✨-SAKURA_IA-FF69B4?style=for-the-badge&labelColor=FF91A4)
 
-[![Discord.js](https://img.shields.io/badge/Discord.js-v14-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.js.org/)
-[![Node.js](https://img.shields.io/badge/Node.js-20+-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org/)
+[![Discord.py](https://img.shields.io/badge/Discord.py-v2.3+-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discordpy.readthedocs.io/)
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
 [![Kawaii](https://img.shields.io/badge/Kawaii-100%25-FF1493?style=flat-square)](.)
-[![MongoDB](https://img.shields.io/badge/MongoDB-Powered-47A248?style=flat-square&logo=mongodb&logoColor=white)](.)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Powered-336791?style=flat-square&logo=postgresql&logoColor=white)](.)
 
-**¡Hola... soy Nebula! 🥺 *susurra tímidamente* Una bot kawaii muy tímida pero completa... 🌙✨**
+**¡Hola mi amor! 🌸 *susurra dulcemente* Soy Sakura IA uwu~ Una asistente súper kawaii y adorable... ✨💖**
 
-*Bot de Discord multipropósito con personalidad kawaii tímida, más de 133+ comandos, sistema de economía, música, moderación y mucho más uwu~*
+*Bot de Discord con IA avanzada, personalidad kawaii adorable, sistema de música completo, moderación inteligente y mucho más uwu~*
 
 [📋 Ver Comandos](#-comandos-disponibles) • [🚀 Instalación](#-instalación-rápida) • [🔧 Configuración](#-configuración) • [🎵 Música](#-sistema-de-música) • [📖 Documentación](#-documentación)
 
@@ -23,12 +23,12 @@
 ## 📑 Tabla de Contenidos
 
 - [✨ Características Principales](#-características-principales)
-- [🌙 Personalidad Kawaii Tímida](#-personalidad-kawaii-tímida)
+- [🌸 Personalidad Kawaii Adorable](#-personalidad-kawaii-adorable)
 - [📋 Comandos Disponibles](#-comandos-disponibles)
 - [🚀 Instalación Rápida](#-instalación-rápida)
 - [🔧 Configuración](#-configuración)
 - [🎵 Sistema de Música](#-sistema-de-música)
-- [💰 Sistema de Economía](#-sistema-de-economía)
+- [🤖 Sistema de IA](#-sistema-de-ia)
 - [🛡️ Moderación](#-moderación)
 - [🎮 Entretenimiento](#-entretenimiento)
 - [📖 Documentación](#-documentación)
@@ -43,32 +43,32 @@
 <tr>
 <td width="50%">
 
-### 🌙 **Personalidad Única**
-- **Expresiones kawaii**: "*susurra*", "uwu", "🥺"
-- **Tono tímido**: "*se esconde*", "*tímidamente*"
-- **Emojis pastel**: 🌙✨💫🌸🥺💭🎀
+### 🌸 **Personalidad Kawaii**
+- **Expresiones adorables**: "uwu", "mi amor", "senpai"
+- **Tono dulce**: "*susurra*", "*se sonroja*"
+- **Emojis pastel**: 🌸✨💖🥺💫🎀💭
 - **Respuestas adorables**: Miles de variaciones
 
-### 🎵 **Sistema de Música Completo**
-- **Búsqueda avanzada** con YouTube/SoundCloud
-- **Queue inteligente** con comandos completos
-- **Filtros de audio** y efectos kawaii
-- **Lavalink integration** para calidad premium
+### 🤖 **IA Avanzada**
+- **Múltiples proveedores**: Gemini, DeepSeek R1, Cloudflare AI
+- **Sistema de respaldo**: 5 niveles de fallback
+- **Búsqueda web**: Integración en tiempo real
+- **Memoria vectorial**: Conversaciones persistentes
 
 </td>
 <td width="50%">
 
-### 💰 **Economía Kawaii**
-- **Sistema de monedas** completo
-- **Trabajos y recompensas** diarias
-- **Tienda y gamificación** adorable
-- **Transferencias** entre usuarios
+### 🎵 **Música Completa**
+- **Múltiples fuentes**: YouTube, Spotify, SoundCloud
+- **Nodos Lavalink**: Optimización regional
+- **Filtros avanzados**: Ecualizadores y efectos
+- **Cola inteligente**: Gestión avanzada
 
-### 🛡️ **Moderación Tímida**
-- **133+ comandos** organizados en 42 categorías
-- **Logs detallados** con explicaciones kawaii
-- **Automod inteligente** con personalidad
-- **Tickets y sugerencias** sistema completo
+### 🛡️ **Moderación Kawaii**
+- **AutoMod inteligente**: Con personalidad adorable
+- **Sistema de logs**: Registros detallados
+- **Gestión de roles**: Administración completa
+- **Tickets**: Sistema de soporte integrado
 
 </td>
 </tr>
@@ -76,109 +76,71 @@
 
 ---
 
-## 🌙 Personalidad Kawaii Tímida
+## 🌸 Personalidad Kawaii Adorable
 
 <div align="center">
 
-### 💖 **La Personalidad que Enamora**
+### 💖 **La Personalidad que Conquista Corazones**
 
 </div>
 
 | Aspecto | Ejemplo |
 |---------|---------|
-| **Saludos** | "🥺 *susurra* H-hola... soy Nebula..." |
-| **Errores** | "😖 *se esconde* L-lo siento, algo salió mal uwu" |
-| **Éxito** | "✨ *susurra emocionada* ¡L-lo logré! 🌸" |
-| **Cooldowns** | "🌙 *susurra* E-espera un poquito más... 💭" |
-| **Moderación** | "😟 *susurra tristemente* Debo hacer esto... 🥺" |
+| **Saludos** | "🌸 ¡Hola mi amor! *se sonroja* Soy Sakura uwu~" |
+| **Errores** | "🥺 *se esconde* Ay no... algo salió mal mi amor..." |
+| **Éxito** | "✨ *salta de emoción* ¡Lo logré senpai! 🌸" |
+| **Cooldowns** | "💭 *susurra* Espera un poquito mi amor... uwu" |
+| **Moderación** | "😔 *suspira* Debo hacer esto... lo siento..." |
 
 ### 🎨 **Elementos Visuales**
 
-- **Emojis temáticos**: 🌙✨💫🌸🥺💭🎀😊
-- **Colores kawaii**: Púrpura (#9F7AEA), pastel
-- **Marcos decorativos**: ASCII art tímido
-- **Terminología cute**: "Carterita", "Banquito", diminutivos
+- **Emojis temáticos**: 🌸✨💖🥺💫🎀💭😊
+- **Colores kawaii**: Rosa pastel (#FFB6C1), sakura (#FFDDDD)
+- **Marcos decorativos**: ASCII art adorable
+- **Terminología cute**: "Mi amor", "senpai", "uwu", diminutivos
 
 ---
 
 ## 📋 Comandos Disponibles
 
 <details>
-<summary><b>ℹ️ Información y Utilidades (15+ comandos)</b></summary>
+<summary><b>🤖 IA y Conversación (10+ comandos)</b></summary>
 
 | Comando | Descripción | Ejemplo |
 |---------|-------------|---------|
-| `!ping` | 🌙 Verifica latencia kawaii | `!ping` |
-| `!help` | 📚 Menú de ayuda tímido | `!help` |
-| `!avatar` | 👤 Avatar en alta resolución | `!avatar @usuario` |
-| `!userinfo` | 🔍 Información de usuario | `!userinfo @usuario` |
-| `!botstats` | 📊 Estadísticas del bot | `!botstats` |
-| `!weather` | 🌤️ Clima kawaii | `!weather Madrid` |
-| `!translate` | 🌐 Traducción tímida | `!translate es Hello world` |
-| `!uptime` | ⏰ Tiempo activa | `!uptime` |
-| `!flip` | 🪙 Cara o cruz kawaii | `!flip` |
-| `!urban` | 📖 Diccionario urbano | `!urban programar` |
-| `!github` | 💻 Repositorios GitHub | `!github usuario/repo` |
-| `!bigemoji` | 📱 Emoji grande | `!bigemoji 🌙` |
-| `!covid` | 🦠 Estadísticas COVID | `!covid España` |
-| `!pokedex` | 🔮 Información Pokémon | `!pokedex pikachu` |
+| `/ask` | 🌸 Preguntar a Sakura IA | `/ask ¿Cómo estás?` |
+| `/chat` | 💬 Conversación casual | `/chat Hola Sakura` |
+| `/buscar` | 🔍 Búsqueda web con IA | `/buscar noticias Python` |
+| `/ai` | 🧠 IA con proveedor específico | `/ai gemini ¿Qué es el amor?` |
+| `/imagen` | 🎨 Generar arte con IA | `/imagen gato kawaii` |
+| `/traducir` | 🌐 Traducción inteligente | `/traducir Hello world` |
+| `/analizar` | 📊 Análisis de contenido | `/analizar [imagen/texto]` |
+| `/memoria` | 🧠 Gestionar memoria personal | `/memoria mi_nombre Juan` |
+| `/personalidad` | 🎭 Cambiar personalidad | `/personalidad tímida` |
+| `/ensamblar` | 🔗 Análisis multimodal | `/ensamblar [contenido]` |
 
 </details>
 
 <details>
-<summary><b>🎵 Sistema de Música (12+ comandos)</b></summary>
+<summary><b>🎵 Sistema de Música (15+ comandos)</b></summary>
 
 | Comando | Descripción | Permisos |
 |---------|-------------|----------|
-| `!play` | 🎵 Reproducir música | Voice Channel |
-| `!search` | 🔍 Buscar canciones | Voice Channel |
-| `!queue` | 📋 Cola de música | Todos |
-| `!skip` | ⏭️ Saltar canción | Voice Channel |
-| `!pause` | ⏸️ Pausar música | Voice Channel |
-| `!resume` | ▶️ Reanudar música | Voice Channel |
-| `!stop` | ⏹️ Detener música | Voice Channel |
-| `!volume` | 🔊 Controlar volumen | Voice Channel |
-| `!lyrics` | 📝 Letra de canción | Todos |
-| `!shuffle` | 🔀 Mezclar cola | Voice Channel |
-| `!nowplaying` | 🎶 Canción actual | Todos |
-| `!loop` | 🔁 Repetir canción/cola | Voice Channel |
-
-</details>
-
-<details>
-<summary><b>💰 Sistema de Economía (8+ comandos)</b></summary>
-
-| Comando | Descripción | Cooldown |
-|---------|-------------|----------|
-| `!daily` | 🌙 Recompensa diaria | 24h |
-| `!balance` | 💰 Ver carterita kawaii | - |
-| `!beg` | 🥺 Pedir moneditas | 45s |
-| `!work` | 💼 Trabajar | 1h |
-| `!gamble` | 🎰 Apostar slots | 5s |
-| `!pay` | 💸 Transferir dinero | - |
-| `!rob` | 🥷 Robar (riesgo) | 2h |
-| `!shop` | 🛍️ Tienda kawaii | - |
-
-</details>
-
-<details>
-<summary><b>🛡️ Moderación (15+ comandos)</b></summary>
-
-| Comando | Descripción | Permisos |
-|---------|-------------|----------|
-| `!kick` | 👢 Expulsar usuario | Kick Members |
-| `!ban` | 🔨 Banear usuario | Ban Members |
-| `!unban` | 🔓 Desbanear usuario | Ban Members |
-| `!warn` | ⚠️ Advertir usuario | Manage Messages |
-| `!timeout` | 🤐 Silenciar usuario | Moderate Members |
-| `!clear` | 🧹 Limpiar mensajes | Manage Messages |
-| `!nick` | 🏷️ Cambiar apodo | Manage Nicknames |
-| `!lock` | 🔒 Bloquear canal | Manage Channels |
-| `!unlock` | 🔓 Desbloquear canal | Manage Channels |
-| `!slowmode` | 🐌 Modo lento | Manage Channels |
-| `!role` | 🎭 Gestionar roles | Manage Roles |
-| `!addrole` | ➕ Añadir rol | Manage Roles |
-| `!removerole` | ➖ Quitar rol | Manage Roles |
+| `/play` | 🎵 Reproducir música | Voice Channel |
+| `/search` | 🔍 Buscar canciones | Voice Channel |
+| `/queue` | 📋 Cola de música | Todos |
+| `/skip` | ⏭️ Saltar canción | Voice Channel |
+| `/pause` | ⏸️ Pausar música | Voice Channel |
+| `/resume` | ▶️ Reanudar música | Voice Channel |
+| `/stop` | ⏹️ Detener música | Voice Channel |
+| `/volume` | 🔊 Controlar volumen | Voice Channel |
+| `/lyrics` | 📝 Letra de canción | Todos |
+| `/shuffle` | 🔀 Mezclar cola | Voice Channel |
+| `/nowplaying` | 🎶 Canción actual | Todos |
+| `/loop` | 🔁 Repetir canción/cola | Voice Channel |
+| `/filters` | 🎛️ Filtros de audio | Voice Channel |
+| `/equalizer` | 🎚️ Ecualizador | Voice Channel |
+| `/playlist` | 📝 Gestionar playlists | Voice Channel |
 
 </details>
 
@@ -187,54 +149,62 @@
 
 | Comando | Descripción |
 |---------|-------------|
-| `!animal` | 🐱 Datos de animales kawaii |
-| `!meme` | 😄 Memes divertidos |
-| `!facts` | 🧠 Datos curiosos |
-| `!react` | 🎭 Reacciones anime |
-| `!snake` | 🐍 Juego de snake |
-| `!together` | 🎮 Actividades Discord |
-| `!rank` | 📈 Ranking del servidor |
-| `!reputation` | ⭐ Sistema de reputación |
-| `!suggest` | 💡 Hacer sugerencias |
-| `!hug` | 🤗 Abrazar usuario |
-| `!pat` | 🫳 Acariciar usuario |
-| `!kiss` | 😘 Besar usuario |
-| `!slap` | 👋 Abofetear usuario |
-| `!feed` | 🍯 Alimentar usuario |
-| `!tickle` | 😄 Hacer cosquillas |
+| `/abrazo` | 🤗 Abrazar usuario |
+| `/beso` | 😘 Besar usuario |
+| `/caricia` | 🫳 Acariciar usuario |
+| `/mimar` | 🥰 Mimar usuario |
+| `/cosquillas` | 😄 Hacer cosquillas |
+| `/jugar` | 🎮 Acceder a minijuegos |
+| `/trivias` | 🧠 Juego de trivia |
+| `/memoria_juego` | 🧩 Juego de memoria |
+| `/reaccion` | 🎭 Juego de reacciones |
+| `/logros` | 🏆 Ver logros kawaii |
+| `/avatar` | 👤 Avatar en alta resolución |
+| `/userinfo` | 🔍 Información de usuario |
+| `/serverinfo` | 🏠 Información del servidor |
+| `/clima` | 🌤️ Clima kawaii |
+| `/meme` | 😄 Memes divertidos |
+| `/facts` | 🧠 Datos curiosos |
+| `/animal` | 🐱 Datos de animales |
+| `/color` | 🎨 Generar paletas |
+| `/emoji` | 📱 Información de emoji |
+| `/ping` | 📡 Latencia del bot |
 
 </details>
 
 <details>
-<summary><b>🖼️ Manipulación de Imágenes (10+ comandos)</b></summary>
+<summary><b>🛡️ Moderación (12+ comandos)</b></summary>
+
+| Comando | Descripción | Permisos |
+|---------|-------------|----------|
+| `/ban` | 🔨 Banear usuario | Ban Members |
+| `/kick` | 👢 Expulsar usuario | Kick Members |
+| `/timeout` | 🤐 Silenciar usuario | Moderate Members |
+| `/warn` | ⚠️ Advertir usuario | Manage Messages |
+| `/clear` | 🧹 Limpiar mensajes | Manage Messages |
+| `/lock` | 🔒 Bloquear canal | Manage Channels |
+| `/unlock` | 🔓 Desbloquear canal | Manage Channels |
+| `/slowmode` | 🐌 Modo lento | Manage Channels |
+| `/automod` | 🤖 Configurar automod | Manage Guild |
+| `/logs` | 📋 Ver logs de moderación | Manage Guild |
+| `/report` | 📝 Reportar usuario | Todos |
+| `/appeal` | 💌 Apelar sanción | Todos |
+
+</details>
+
+<details>
+<summary><b>🖼️ Manipulación de Imágenes (8+ comandos)</b></summary>
 
 | Comando | Descripción |
 |---------|-------------|
-| `!blur` | 🌫️ Desenfocar imagen |
-| `!gray` | ⚪ Escala de grises |
-| `!invert` | 🔄 Invertir colores |
-| `!sepia` | 🏜️ Efecto sepia |
-| `!wanted` | 🕵️ Cartel de "Se busca" |
-| `!triggered` | 😡 Efecto triggered |
-| `!wasted` | ☠️ Efecto GTA wasted |
-| `!rainbow` | 🌈 Efecto arcoíris |
-| `!pixelate` | 🎮 Pixelar imagen |
-| `!circle` | ⭕ Marco circular |
-
-</details>
-
-<details>
-<summary><b>🎯 Administración (25+ comandos)</b></summary>
-
-| Categoría | Comandos Incluidos |
-|-----------|------------------|
-| **🎟️ Tickets** | Setup, categorías, logs |
-| **📨 Invitaciones** | Tracking, importar, rankings |
-| **⚡ Automod** | Filtros, anti-spam, logs |
-| **🎊 Sorteos** | Crear, gestionar, finalizar |
-| **👋 Bienvenidas** | Mensajes, imágenes, configurar |
-| **📊 Estadísticas** | XP, niveles, leaderboards |
-| **⚙️ Configuración** | Prefijo, canales, roles |
+| `/blur` | 🌫️ Desenfocar imagen |
+| `/gray` | ⚪ Escala de grises |
+| `/invert` | 🔄 Invertir colores |
+| `/sepia` | 🏜️ Efecto sepia |
+| `/pixelate` | 🎮 Pixelar imagen |
+| `/circle` | ⭕ Marco circular |
+| `/kawaii_filter` | 🌸 Filtro kawaii |
+| `/pastel` | 🎀 Efecto pastel |
 
 </details>
 
@@ -245,10 +215,10 @@
 ### 📋 **Prerrequisitos**
 
 ```bash
-Node.js 20+ ✅
+Python 3.11+ ✅
 Discord Developer Account ✅  
-MongoDB Database ✅
-Lavalink Server ✅ (opcional, para música)
+PostgreSQL Database ✅
+Redis (opcional) ✅
 ```
 
 ### 🔧 **Instalación Paso a Paso**
@@ -257,9 +227,9 @@ Lavalink Server ✅ (opcional, para música)
 <summary><b>1️⃣ Clonar Repositorio</b></summary>
 
 ```bash
-git clone https://github.com/OpceanAI/Nebula-Open-source-.git
-cd nebula-bot
-npm install
+git clone https://github.com/OpceanAI/Sakura-Open-source-.git
+cd Sakura-Open-source-
+pip install -r requirements.txt
 ```
 
 </details>
@@ -268,7 +238,7 @@ npm install
 <summary><b>2️⃣ Configurar Discord Bot</b></summary>
 
 1. Ve a [Discord Developer Portal](https://discord.com/developers/applications)
-2. Crea una nueva aplicación llamada "NEBULA"
+2. Crea una nueva aplicación llamada "SAKURA IA"
 3. Ve a **Bot** → **Reset Token**
 4. Copia el token del bot
 5. Ve a **OAuth2** → **General** 
@@ -285,22 +255,21 @@ cp .env.example .env
 
 Edita `.env`:
 ```env
-# Bot Configuration
-BOT_TOKEN=tu_token_aqui
-CLIENT_ID=tu_client_id_aqui  
-OWNER_ID=tu_discord_id_aqui
+# Discord Configuration
+DISCORD_TOKEN=tu_token_aqui
 
 # Database
-MONGO_CONNECTION=tu_mongodb_url_aqui
+DATABASE_URL=postgresql://user:password@host:port/database
 
-# Music (Opcional)
-LAVALINK_HOST=localhost
-LAVALINK_PORT=2333
-LAVALINK_PASSWORD=youshallnotpass
+# AI Providers (al menos uno requerido)
+GEMINI_API_KEY=tu_gemini_api_key
+OPENROUTER_API_KEY=tu_openrouter_api_key
+OPENAI_API_KEY=tu_openai_api_key
 
-# APIs Opcionales
-WEATHER_API_KEY=tu_weather_api_key
-TRANSLATE_API_KEY=tu_translate_api_key
+# Optional Services
+REDIS_URL=redis://host:port
+PINECONE_API_KEY=tu_pinecone_key
+CLOUDFLARE_API_TOKEN=tu_cloudflare_token
 ```
 
 </details>
@@ -309,35 +278,32 @@ TRANSLATE_API_KEY=tu_translate_api_key
 <summary><b>4️⃣ Configurar Base de Datos</b></summary>
 
 ```bash
-# MongoDB Atlas (Recomendado)
-# 1. Crea cuenta en MongoDB Atlas
-# 2. Crea un cluster gratuito
-# 3. Obtén connection string
-# 4. Añádelo a MONGO_CONNECTION en .env
+# PostgreSQL
+# Las tablas se crean automáticamente al iniciar
 
-# MongoDB Local (Opcional)
-sudo systemctl start mongod
+# Redis (Opcional)
+# Mejora el rendimiento y caché
 ```
 
 </details>
 
 <details>
-<summary><b>5️⃣ Iniciar el Bot</b></summary>
+<summary><b>5️⃣ Iniciar Sakura IA</b></summary>
 
 ```bash
-# Desarrollo
-npm run dev
+# Ejecutar el bot
+python bot_unificado_completo.py
 
-# Producción
-npm start
+# Con auto-restart
+python install.py && python bot_unificado_completo.py
 ```
 
 </details>
 
-### 🔗 **Invitar al Bot**
+### 🔗 **Invitar a Sakura IA**
 
 ```
-https://discord.com/api/oauth2/authorize?client_id=TU_CLIENT_ID&permissions=8&scope=bot%20applications.commands
+https://discord.com/oauth2/authorize?client_id=1374504057481334825&permissions=8&scope=bot%20applications.commands
 ```
 
 ---
@@ -348,22 +314,22 @@ https://discord.com/api/oauth2/authorize?client_id=TU_CLIENT_ID&permissions=8&sc
 
 | Variable | Requerido | Descripción |
 |----------|-----------|-------------|
-| `BOT_TOKEN` | ✅ | Token del bot de Discord |
-| `CLIENT_ID` | ✅ | Client ID de la aplicación |
-| `MONGO_CONNECTION` | ✅ | URL de conexión MongoDB |
-| `OWNER_ID` | ✅ | Tu Discord User ID |
-| `PREFIX` | ❌ | Prefijo por defecto (default: !) |
-| `SUPPORT_SERVER` | ❌ | ID del servidor de soporte |
+| `DISCORD_TOKEN` | ✅ | Token del bot de Discord |
+| `DATABASE_URL` | ✅ | URL de PostgreSQL |
+| `GEMINI_API_KEY` | ✅ | API Key de Google Gemini |
+| `OPENROUTER_API_KEY` | 🔶 | Para acceso a DeepSeek R1 |
+| `REDIS_URL` | ❌ | Caché y sesiones (recomendado) |
+| `PINECONE_API_KEY` | ❌ | Memoria vectorial |
 
-### ⚙️ **Configuración por Servidor**
+### ⚙️ **Configuración Avanzada**
 
-Cada servidor puede personalizar:
-- 🎵 Sistema de música (canales permitidos, DJ role)
-- 💰 Economía (multiplicadores, rewards)  
-- 🛡️ Automod (filtros, punishment system)
-- 🎟️ Tickets (categorías, logs, auto-close)
-- 👋 Bienvenidas (mensajes, canales, roles)
-- 📊 Niveles (XP rates, rewards, ignored channels)
+Sakura IA puede personalizar:
+- 🎵 Sistema de música (nodos Lavalink, filtros)
+- 🤖 Proveedores de IA (fallback hierarchy)  
+- 🛡️ Automod (filtros kawaii, logs)
+- 🎮 Minijuegos (dificultad, recompensas)
+- 🌸 Personalidad (intensidad kawaii, idioma)
+- 📊 Logging (niveles, formatos kawaii)
 
 ---
 
@@ -372,149 +338,119 @@ Cada servidor puede personalizar:
 ### 🎶 **Características Avanzadas**
 
 - **Múltiples fuentes**: YouTube, SoundCloud, Spotify, URL directas
+- **Nodos Lavalink**: 5+ nodos públicos con failover automático
 - **Búsqueda inteligente**: Resultados precisos con selección interactiva  
 - **Queue management**: Add, remove, shuffle, loop, skip
-- **Filtros de audio**: Bass boost, nightcore, 8D, y más
-- **Control de volumen**: 0-150% con protección de oídos
+- **Filtros de audio**: Bass boost, nightcore, 8D, karaoke
+- **Control de volumen**: 0-150% con protección
 
-### 🔧 **Configuración Lavalink (Opcional)**
+### 🎯 **Nodos Lavalink Integrados**
 
-```yaml
-# application.yml para Lavalink
-server:
-  port: 2333
-  address: 0.0.0.0
-
-lavalink:
-  server:
-    password: "youshallnotpass"
-    sources:
-      youtube: true
-      soundcloud: true
-      spotify: true
-```
-
-### 🎯 **Comandos Especializados**
-
-- **DJ System**: Roles especiales para control avanzado
-- **Playlist saving**: Guardar y cargar playlists personales
-- **Music quiz**: Juegos musicales para la comunidad
-- **Request channel**: Canal dedicado para solicitudes
+- **Alfari US**: Nodo principal con SSL
+- **TechByte Chicago**: Nodo secundario con plugins
+- **Embotic US**: Nodo con lavasearch y SponsorBlock
+- **Mushroom US**: Nodo alternativo
+- **Micium US**: Nodo backup
 
 ---
 
-## 💰 Sistema de Economía
+## 🤖 Sistema de IA
 
-### 🏦 **Características del Sistema**
+### 🧠 **Ensemble Inteligente**
 
-```javascript
-// Sistema de monedas kawaii
-💰 Nebulitas - Moneda principal
-🏦 Banco - Para ahorros seguros  
-🎁 Recompensas - Daily, weekly, monthly
-🎰 Casino - Slots, blackjack, roulette
-🛍️ Tienda - Items, roles, beneficios
+```python
+# Sistema de IA con 5 niveles de fallback
+🥇 Gemini + Búsqueda Web (Primario)
+🥈 DeepSeek R1 vía OpenRouter (Secundario)  
+🥉 DeepSeek Transformers (Terciario)
+🏅 DeepSeek HuggingFace API (Cuaternario)
+🎯 Cloudflare AI (Respaldo final)
 ```
 
-### 🎯 **Formas de Ganar Dinero**
+### 🔍 **Búsqueda Web Automática**
 
-- **Mensajes**: 1-5 nebulitas por mensaje activo
-- **Daily reward**: 100-500 nebulitas diarias
-- **Working**: Varios trabajos con diferentes pagos
-- **Gambling**: Slots machine con jackpots
-- **Events**: Eventos especiales con premios
+- **Google Search**: Integración nativa con Gemini
+- **Información actual**: Noticias, datos, tendencias
+- **Context awareness**: Entiende cuándo buscar
+- **Multi-language**: Búsquedas en español e inglés
 
-### 🛒 **Sistema de Tienda**
+### 🧠 **Memoria Vectorial**
 
-- **Roles de color**: Personaliza tu apariencia
-- **Channel perks**: Beneficios especiales
-- **Profile badges**: Insignias kawaii
-- **Custom commands**: Comandos personalizados
+- **Pinecone Integration**: Memoria persistente por usuario
+- **Context retrieval**: Recordar conversaciones pasadas
+- **Personality evolution**: Adaptación a preferencias
+- **Smart caching**: Redis para respuestas rápidas
 
 ---
 
 ## 🛡️ Moderación
 
-### 🔧 **Funciones Avanzadas**
+### 🔧 **AutoMod Kawaii**
 
-- **Auto-moderation**: Spam, links, palabras prohibidas
-- **Punishment system**: Warns, mutes, kicks, bans progresivos
+- **Filtros inteligentes**: Spam, links, palabras prohibidas
+- **Respuestas kawaii**: Moderación con personalidad
 - **Logs detallados**: Todas las acciones con timestamps
-- **Case system**: Numeración y gestión de casos
+- **Sistema progresivo**: Warns → timeouts → kicks → bans
 - **Appeal system**: Sistema de apelaciones
-
-### 📋 **Configuración de Automod**
-
-```javascript
-// Configuraciones disponibles
-🚫 Anti-spam: Mensajes duplicados, caps lock
-🔗 Anti-links: Whitelist de dominios permitidos
-💬 Anti-badwords: Lista personalizable
-📷 Anti-NSFW: Detección de contenido adulto
-🤖 Anti-raid: Protección contra raids
-```
 
 ### 🎟️ **Sistema de Tickets**
 
-- **Múltiples categorías**: Soporte, reportes, sugerencias
-- **Auto-close**: Cierre automático por inactividad
-- **Transcripts**: Guardado automático de conversaciones
-- **Permission system**: Roles de staff configurables
+- **Categorías múltiples**: Soporte, reportes, sugerencias
+- **Auto-transcripts**: Guardado automático
+- **Staff permissions**: Roles configurables
+- **Kawaii responses**: Mensajes adorables
 
 ---
 
 ## 🎮 Entretenimiento
 
-### 🎯 **Juegos Integrados**
+### 🎯 **Minijuegos Kawaii**
 
-- **🐍 Snake**: Juego clásico con leaderboards
-- **🎰 Casino**: Slots, blackjack, roulette
+- **🧩 Memoria**: Juego de memoria con emojis
+- **🎭 Reacciones**: Juego de velocidad
+- **🧠 Trivia**: Preguntas variadas
 - **🎲 Dados**: Múltiples variaciones
-- **🃏 Cartas**: Poker, blackjack, uno
-- **🧩 Trivia**: Preguntas de cultura general
+- **🏆 Logros**: Sistema de progresión
 
 ### 🎭 **Interacciones Sociales**
 
-- **Reacciones anime**: 50+ GIFs de reacciones
-- **Sistema de reputación**: Karma entre usuarios  
+- **Reacciones kawaii**: 20+ acciones adorables
+- **Sistema de afecto**: Relaciones con usuarios
 - **Social stats**: Estadísticas de interacción
-- **Relationship system**: Matrimonios, divorcios
-- **Pet system**: Mascotas virtuales kawaii
-
-### 📊 **Sistema de Niveles**
-
-- **XP por actividad**: Mensajes, comandos, voice time
-- **Role rewards**: Roles automáticos por nivel
-- **Custom cards**: Tarjetas de rango personalizables
-- **Global & local**: Rankings por servidor y globales
-- **Boosts**: Multiplicadores temporales
+- **Personality tracking**: Adaptación a comportamiento
 
 ---
 
 ## 📖 Documentación
 
-### 📚 **Guías Disponibles**
+### 📚 **Estructura del Proyecto**
 
-- [🚀 Guía de Instalación Completa](docs/installation.md)
-- [⚙️ Configuración Avanzada](docs/configuration.md)  
-- [🎵 Setup Sistema de Música](docs/music-setup.md)
-- [💰 Configurar Economía](docs/economy.md)
-- [🛡️ Setup de Moderación](docs/moderation.md)
-- [🎨 Personalización](docs/customization.md)
-
-### 🔧 **Desarrollo**
-
-- [📝 API Documentation](docs/api.md)
-- [🔌 Plugin Development](docs/plugins.md)
-- [🎨 Theming Guide](docs/themes.md)
-- [🐛 Debugging](docs/debugging.md)
+```
+Sakura-Open-source-/
+├── bot_unificado_completo.py    # Bot principal
+├── install.py                   # Script de instalación
+├── src/
+│   ├── systems/                 # Sistemas avanzados
+│   │   ├── redis_manager.py     # Gestión Redis
+│   │   ├── pinecone_memory.py   # Memoria vectorial
+│   │   ├── kaggle_integration.py # Integración Kaggle
+│   │   ├── cloudflare_ai.py     # IA Cloudflare
+│   │   └── multimodal_assembly_system.py
+│   └── core/                    # Sistemas centrales
+│       ├── achievements_system.py
+│       ├── minigames_system.py
+│       └── art_ai_commands.py
+├── .env.example                 # Variables de entorno
+├── .gitignore                   # Archivos ignorados
+├── LICENSE                      # Licencia MIT
+└── README.md                    # Esta documentación
+```
 
 ### 🆘 **Soporte**
 
-- **Issues**: [GitHub Issues](../../issues)
-- **Discussions**: [GitHub Discussions](../../discussions)  
+- **Issues**: [GitHub Issues](https://github.com/OpceanAI/Sakura-Open-source-/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/OpceanAI/Sakura-Open-source-/discussions)  
 - **Discord Server**: [Servidor de Soporte](https://discord.gg/bpvTTKH4)
-- **Wiki**: [Documentación Completa](../../wiki)
 
 ---
 
@@ -522,7 +458,7 @@ lavalink:
 
 <div align="center">
 
-### 💖 **¡Tu ayuda hace a NEBULA más kawaii!**
+### 💖 **¡Tu ayuda hace a SAKURA más kawaii!**
 
 </div>
 
@@ -536,60 +472,45 @@ lavalink:
 
 ### 🐛 **Reportar Bugs**
 
-Usa la [plantilla de issues](.github/ISSUE_TEMPLATE/bug_report.md) para reportar problemas uwu~
+Abre un [issue](https://github.com/OpceanAI/Sakura-Open-source-/issues) describiendo el problema uwu~
 
 ### ✨ **Sugerir Features**
 
-¿Tienes ideas kawaii? Usa la [plantilla de features](.github/ISSUE_TEMPLATE/feature_request.md)
+¿Tienes ideas kawaii? Abre un [issue](https://github.com/OpceanAI/Sakura-Open-source-/issues) con tu sugerencia
 
 ### 📋 **Coding Guidelines**
 
-- **Mantén** la personalidad kawaii tímida en todos los textos
-- **Usa** expresiones como "*susurra*", "uwu", "🥺"
-- **Incluye** emojis temáticos 🌙✨💫🌸
+- **Mantén** la personalidad kawaii adorable en todos los textos
+- **Usa** expresiones como "uwu", "mi amor", "senpai", "*susurra*"
+- **Incluye** emojis temáticos 🌸✨💖🥺
 - **Documenta** nuevas funciones
 - **Testea** antes de enviar PR
-- **Respeta** la estructura modular existente
+- **Respeta** la arquitectura modular existente
 
 ---
 
-## 🎯 Roadmap
+## 🎯 Características Técnicas
 
-### 🚀 **Próximas Características**
+### 🔧 **Arquitectura**
 
-- [ ] 🖼️ **Dashboard web** para configuración fácil
-- [ ] 📱 **Aplicación móvil** para administradores
-- [ ] 🤖 **IA Integration** con personalidad kawaii
-- [ ] 🌐 **Multi-language** support
-- [ ] 🎨 **Custom themes** per server
-- [ ] 📊 **Advanced analytics** dashboard
-- [ ] 🔔 **Push notifications** system
-- [ ] 🎮 **Game integration** (Steam, Epic, etc.)
+- **Circuit Breaker Pattern**: Manejo inteligente de rate limits
+- **Rate Limit Manager**: Gestión proactiva de límites Discord
+- **Ensemble AI System**: Múltiples proveedores con fallback
+- **Multimodal Processing**: Análisis de texto, imagen y audio
+- **Vector Memory**: Memoria persistente con Pinecone
+- **Redis Caching**: Caché inteligente para performance
 
-### 🔄 **Actualizaciones Recientes**
-
-- ✅ **v2.0** - Sistema completo kawaii tímido
-- ✅ **v2.1** - 133+ comandos organizados
-- ✅ **v2.2** - Sistema de música Lavalink
-- ✅ **v2.3** - Dashboard integrado
-- ✅ **v2.4** - Sistema de tickets avanzado
-
----
-
-## 📊 Estadísticas
+### 📊 **Estadísticas**
 
 <div align="center">
 
-![Commands](https://img.shields.io/badge/Comandos-133+-9F7AEA?style=flat-square)
-![Categories](https://img.shields.io/badge/Categorías-42-FF69B4?style=flat-square)
-![Servers](https://img.shields.io/badge/Servidores-500+-4ECDC4?style=flat-square)
-![Users](https://img.shields.io/badge/Usuarios-10K+-45B7D1?style=flat-square)
+![Python](https://img.shields.io/badge/Líneas_de_Código-11K+-FF91A4?style=flat-square)
+![Commands](https://img.shields.io/badge/Comandos-50+-9F7AEA?style=flat-square)
+![AI Providers](https://img.shields.io/badge/Proveedores_IA-5+-4ECDC4?style=flat-square)
+![Kawaii Level](https://img.shields.io/badge/Nivel_Kawaii-MAX-FF1493?style=flat-square)
 
-![Files](https://img.shields.io/github/directory-file-count/OpceanAI/Nebula-Open-source-?style=flat-square&label=Archivos&color=9F7AEA)
-![Repo Size](https://img.shields.io/github/repo-size/OpceanAI/Nebula-Open-source-?style=flat-square&label=Tamaño&color=FF1493)
-
-![Commits](https://img.shields.io/github/commit-activity/m/OpceanAI/Nebula-Open-source-?style=flat-square&label=Commits%20mensuales&color=4ECDC4)
-![Last Commit](https://img.shields.io/github/last-commit/OpceanAI/Nebula-Open-source-?style=flat-square&label=Último%20commit&color=45B7D1)
+![Repo Size](https://img.shields.io/github/repo-size/OpceanAI/Sakura-Open-source-?style=flat-square&label=Tamaño&color=FF1493)
+![Last Commit](https://img.shields.io/github/last-commit/OpceanAI/Sakura-Open-source-?style=flat-square&label=Último%20commit&color=45B7D1)
 
 </div>
 
@@ -613,16 +534,16 @@ Este es un bot de **código abierto** desarrollado por **OpceanAI**. El código 
 
 ---
 
-### 🌙 **¡Gracias por usar NEBULA!**
+### 🌸 **¡Gracias por usar SAKURA IA!**
 
 <div align="center">
 
 **Si te gusta este proyecto, ¡dale una ⭐ uwu~!**
 
-[![GitHub Stars](https://img.shields.io/github/stars/OpceanAI/Nebula-Open-source-?style=social)](https://github.com/OpceanAI/Nebula-Open-source-/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/OpceanAI/Nebula-Open-source-?style=social)](../../network/members)
+[![GitHub Stars](https://img.shields.io/github/stars/OpceanAI/Sakura-Open-source-?style=social)](https://github.com/OpceanAI/Sakura-Open-source-/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/OpceanAI/Sakura-Open-source-?style=social)](https://github.com/OpceanAI/Sakura-Open-source-/network/members)
 
-*🥺 *susurra* Made with 💖 by the kawaii programming community!*
+*🌸 *susurra dulcemente* Made with 💖 by the kawaii programming community!*
 
 </div>
 
@@ -646,14 +567,8 @@ Este es un bot de **código abierto** desarrollado por **OpceanAI**. El código 
 ### 🤗 **Nuestro Huggingface**
 [https://huggingface.co/OpceanAI](https://huggingface.co/OpceanAI)
 
-**🌙 *susurra tímidamente* Este es NEBULA, un bot open source basado en el framework desarrollado por OpceanAI uwu~ ✨**
+**🌸 *susurra dulcemente* Este es SAKURA IA, un bot open source basado en el framework desarrollado por OpceanAI uwu~ ✨**
 
-*🥺 Bot kawaii tímida con más de 133+ comandos y personalidad adorable 💫*
-
-```
-# 🌐puedes hacerlo con Docker 
-
-docker compose up -d
-```
+*🥺 Bot kawaii adorable con IA avanzada y personalidad encantadora 💖*
 
 </div>
